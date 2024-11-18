@@ -135,6 +135,8 @@ androidx-icons = { group = "androidx.compose.material", name = "material-icons-c
 androidx-material3 = { group = "androidx.compose.material3", name = "material3", version.ref = "compose-material3" }
 
 # Compose Destinations
+compose-destinations = { module = "compose-destinations:compose-destinations" }
+compose-destinations-bottom-sheet = { module = "compose-destinations:compose-destinations-bottom-sheet" }
 compose-destinations-ksp = { module = "compose-destinations:compose-destinations-ksp" }
 
 # WorkManager
