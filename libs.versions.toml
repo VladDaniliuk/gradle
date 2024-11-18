@@ -1,4 +1,9 @@
 [versions]
+
+# Sdk
+sdk-compile = "35"
+sdk-min = "26"
+
 # Android
 gradle-android = "8.7.2"
 
