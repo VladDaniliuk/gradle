@@ -3,6 +3,7 @@
 # Sdk
 sdk-compile = "35"
 sdk-min = "26"
+sdk-target = "35"
 
 # Android
 gradle-android = "8.7.2"
